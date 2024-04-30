@@ -1,0 +1,41 @@
+1.the type of game 
+Mowing-style game with interactive bullet comments
+2.the platfom of game
+tiktok 
+3.camp
+3-1 Streamers control characters in gameplay 
+3-2 Viewers enhance monsters or boost streamer skills through comments or by sending gifts.
+4.scope of technology
+DOTS,websoket,toolkit,reflex,lua,shader,etc
+5.the core game design concept
+"In the game, numerous enemies spawn, and over time, they grow increasingly powerful. Defeated
+enemies drop experience points, which players collect to enhance their abilities and level up. The
+skill acquisition system allows for gaining a new skill at every level, every two levels, or dynamically.
+The core gameplay features two main elements: 1. Streamer control over the character, and 2. Player
+expectations and engagement. Players can support the streamer by boosting the character’s abilities
+or challenge them by enhancing the attributes, types, and numbers of monsters. The game promotes
+continuous exploration, enabling players to develop unique styles through skill point allocation, thus
+boosting character attributes. The thrill of the game comes from the ability to clear a screen full of
+enemies swiftly, offering players a gratifying clear-screen experience. Moreover, viewers can interact
+by deploying new and unique monsters, increasing the game's challenge. Longer game sessions yield
+more points for the streamer, allowing viewers to see a variety of novel monsters. Viewer points are
+distributed based on specific game mechanics designed to foster interaction."
+6.Game Development Modules
+6-1. Server Built for Interaction between Streamers and Viewers on TikTok
+A server that developed to facilitate real-time interactions between streamers and viewers on the TikTok platform, enabling dynamic engagement.
+6-2. UI Constructed with Toolkit
+The user interface will be designed and implemented with a specialized toolkit to ensure a consistent and high-performance user experience.
+6-3. Main Character in the Game
+Development of the game's main character, focusing on unique features and abilities to enhance player engagement.
+6-4. Various Types of Enemies Developed Using ECS System
+Various enemy types are being developed using the Entity Component System (ECS), optimizing game mechanics for efficiency and scalability.
+6-5. Smooth Interaction Logic Between Character and Enemy
+The interaction logic between characters and enemies is being refined to ensure fluid and responsive gameplay.
+6-6. Hotfix System Coded by LUA
+A hotfix system is implemented using LUA programming to allow for quick updates and fixes post-launch.
+6-7. Other Unforeseeable Tasks
+Provisions are made to handle additional unforeseen tasks that may arise during the development process.
+
+ 
+
+ 
